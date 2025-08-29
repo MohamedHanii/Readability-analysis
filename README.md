@@ -193,10 +193,6 @@ The project includes comprehensive tests for all components:
 
 [Add your license information here]
 
-## Authors
-
-[Add author information here]
-
 ## Acknowledgments
 
 - University of Passau, Faculty of Computer Science and Mathematics
